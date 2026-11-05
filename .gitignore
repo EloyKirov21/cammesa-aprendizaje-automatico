@@ -1,0 +1,10 @@
+# Modelos guardados: se regeneran corriendo los cuadernos (y el bosque pesa 12 MB)
+*.joblib
+
+# Archivos de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Basura de Windows
+Thumbs.db
+desktop.ini
